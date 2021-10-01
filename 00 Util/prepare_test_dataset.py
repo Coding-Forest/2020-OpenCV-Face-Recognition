@@ -40,4 +40,16 @@ took 0.375 seconds to create 2,400 folders.
 took 1.453125 seconds to copy 2,400 images.
 
 Process finished with exit code 0
+
+------------------------------------------------------------
+Notes on data structure
+
+# extract how many images? 1 each from per folder
+    # create 6 folders (6 levels)
+        # folder name: level1~6
+    # in each folder, create 400 folders (400 individuals)
+        # folder name: person ID
+
+# in each destination directory, copy only 1 photo.
+# 1 image per folder (400), in 6 parent folders: 400 * 6 = 2400 copies.
 '''
