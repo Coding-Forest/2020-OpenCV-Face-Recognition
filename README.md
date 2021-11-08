@@ -2,6 +2,12 @@
 Face Recognition application development project using OpenCV and a FR model. 
 
 
+## Models & libraries studied:
+1) MTCNN 
+2) face_recognition
+3) ResNet
+
+
 References
 1) PyTorch + inception_resnet_v1 Fine-Tuning
 https://ichi.pro/ko/pytorchleul-sayonghayeo-eolgul-eul-insighadolog-eolgul-insig-bunlyugileul-mise-jojeong-228743039523449
