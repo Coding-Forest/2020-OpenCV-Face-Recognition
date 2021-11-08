@@ -18,3 +18,12 @@ https://medium.com/analytics-vidhya/how-to-train-your-resnet-the-jindo-dog-50551
 
 BOOKS 
 1) Practical Deep Learning for Cloud, Mobile, and Edge by Anirudh Koul, Siddha Ganju, and Meher Kasam (O’Reilly, 2019)
+
+DATASETS
+  #!mkdir -p ~/.kaggle/
+  !cp /content/kaggle.json ~/.kaggle/
+  !ls ~/.kaggle
+  - Upload your kaggle.json credential.
+
+  # Change the permissions of the file.
+  !chmod 600 ~/.kaggle/kaggle.json
