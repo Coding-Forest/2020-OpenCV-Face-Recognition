@@ -4,8 +4,9 @@ Face Recognition application development project using OpenCV and a FR model.
 
 ## Models & libraries studied:
 1) MTCNN 
-2) face_recognition
+2) FaceNet-PyTorch
 3) ResNet
+4) face_recognition
 
 
 References
