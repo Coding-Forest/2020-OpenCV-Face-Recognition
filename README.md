@@ -20,10 +20,13 @@ Welcome to Face Recognition AI learning Forest 🌳🌳🌳
 <br>
 ## Projects 
 #### [Mini Project 1](https://github.com/Coding-Forest/2021-Face-Recognition/tree/main/03%20Mini%20Project%20-%20Facemesh) - Face detection using [Facemesh](https://github.com/tensorflow/tfjs-models/tree/master/face-landmarks-detection)   
+
 - Tensorflow.JS   
 - Tensorflow Facemesh   
 - ❄️React.JS  
+
 ![Test image1](https://github.com/Coding-Forest/2021-Face-Recognition/blob/main/03%20Mini%20Project%20-%20Facemesh/facemesh4.png)    
+
 ![Test image2](https://github.com/Coding-Forest/2021-Face-Recognition/blob/main/03%20Mini%20Project%20-%20Facemesh/facemesh5.png)  
 
 
