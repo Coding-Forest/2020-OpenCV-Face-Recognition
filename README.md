@@ -1,4 +1,4 @@
-# 2021-OpenCV-Face-Recognition
+# 2021-Face-Recognition
 Face Recognition application development project using OpenCV and a FR model. 
 
 
