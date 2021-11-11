@@ -9,12 +9,13 @@ Welcome to Face Recognition AI learning Forest 🌳🌳🌳
 4) face_recognition
 5) Tensorflow.js
 
+<br>
 
 ## Dev tools
-🐍Python 
-❄️React
+🐍Python   
+❄️React  
 
-
+<br>
 
 ### References
 1) PyTorch + inception_resnet_v1 Fine-Tuning
@@ -24,6 +25,7 @@ https://github.com/timesler/facenet-pytorch#pretrained-models
 3) How to Train Your ResNet: The Jindo Dog (Thierry Laplanche)
 https://medium.com/analytics-vidhya/how-to-train-your-resnet-the-jindo-dog-50551117381d
 
+<br>
 
 ## 🌳🌳🌳 Learning Trove 🌳🌳🌳
 ### BOOKS 
