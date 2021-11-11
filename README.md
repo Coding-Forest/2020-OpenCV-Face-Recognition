@@ -27,7 +27,7 @@ Welcome to Face Recognition AI learning Forest 🌳🌳🌳
 - Tensorflow Facemesh   
 - ❄️React.JS  
 
-![Test image1](https://github.com/Coding-Forest/2021-Face-Recognition/blob/main/03%20Mini%20Project%20-%20Facemesh/facemesh4.png){style="width=400"}    
+![Test image1](https://github.com/Coding-Forest/2021-Face-Recognition/blob/main/03%20Mini%20Project%20-%20Facemesh/facemesh4.png)    
 
 ![Test image2](https://github.com/Coding-Forest/2021-Face-Recognition/blob/main/03%20Mini%20Project%20-%20Facemesh/facemesh5.png)  
 
